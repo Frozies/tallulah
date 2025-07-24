@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import kittyWisdom from '../../../../data/kitty-wisdom.json';
+import {kittyWisdom} from "@/lib/kitty-wisdom";
 
 export async function GET() {
   const wisdoms = kittyWisdom as string[];
