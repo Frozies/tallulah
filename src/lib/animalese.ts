@@ -39,6 +39,7 @@ export class Animalese {
         }
         const arrayBuffer = await res.arrayBuffer();
         // Decode via Web Audio API
+        /* eslint-disable @typescript-eslint/no-explicit-any */
         const AudioCtx = (window.AudioContext || (window as any).webkitAudioContext);
         if (!AudioCtx) {
             throw new Error('Web Audio API not supported');
