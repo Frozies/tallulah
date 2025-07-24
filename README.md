@@ -1,3 +1,20 @@
+# Peace & Paws 🕊️🐾
+
+A playful, hippie-inspired Next.js site for cat lovers! 🌈
+
+## Features
+- Tie-dye theme with day/night mode
+- Animated cat SVGs, flower crowns, and more
+- Cosmic Cat Wisdom API
+- Gallery, Mixer mini-game, Photobooth with stickers
+- Framer Motion, Tailwind, next-themes, Zustand
+
+## Setup
+1. `npm install`
+2. `npm run dev`
+
+Enjoy the groove! ✌️
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
