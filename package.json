@@ -12,6 +12,7 @@
   "dependencies": {
     "@fontsource/fredoka-one": "^5.2.5",
     "@pompompurin/animalese": "^1.0.1",
+    "@ruffle-rs/ruffle": "^0.2.0-nightly.2025.7.25",
     "framer-motion": "^12.23.9",
     "mespeak": "^2.0.2",
     "next": "^15.4.4",

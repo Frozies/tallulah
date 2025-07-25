@@ -7,6 +7,7 @@ import React from 'react';
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/wisdom', label: 'Wisdom' },
+  { href: '/night-club', label: 'Night Club' },
 ];
 
 export default function NavBar() {
