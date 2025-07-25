@@ -7,11 +7,11 @@ export const metadata = {
     openGraph: {
         title: "Peace & Love",
         description: "Enter the groove with our animated cosmic cat and daily wisdom.",
-        url: "https://yourdomain.com",
+        url: "https://tallulah.vercel.app",
         siteName: "Peace & Love",
         images: [
             {
-                url: "https://yourdomain.com/og-image.png",
+                url: "https://tallulah.vercel.app/og-image.png",
                 width: 1200,
                 height: 630,
                 alt: "Peace & Love – Cosmic Cat Wisdom",

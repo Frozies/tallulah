@@ -8,11 +8,11 @@ export const metadata = {
   openGraph: {
     title: 'Cosmic Cat Wisdom – Peace & Love',
     description: 'Hear daily cosmic cat wisdom spoken in authentic Animalese style.',
-    url: 'https://yourdomain.com/wisdom',
+    url: 'https://tallulah.vercel.app/wisdom',
     siteName: 'Peace & Love',
     images: [
       {
-        url: 'https://yourdomain.com/og-wisdom.png',
+        url: 'https://tallulah.vercel.app/og-wisdom.png',
         width: 1200,
         height: 630,
         alt: 'Cosmic Cat Wisdom',

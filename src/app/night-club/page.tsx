@@ -18,7 +18,7 @@ export const metadata = {
         apple: "/apple-touch-icon.png",
     },
     alternates: {
-        canonical: "https://yourdomain.com/nightclub",
+        canonical: "https://tallulah.vercel.app/nightclub",
     },
     robots: {
         index: true,
@@ -32,11 +32,11 @@ export const metadata = {
         title: "Peace & Love Nightclub",
         description:
             "Step into the virtual dance‑floor of Peace & Love: our cosmic cat‑led nightclub with animated beats, immersive visuals, and daily doses of feline wisdom.",
-        url: "https://yourdomain.com/nightclub",
+        url: "https://tallulah.vercel.app/nightclub",
         siteName: "Peace & Love",
         images: [
             {
-                url: "https://yourdomain.com/og-image-nightclub.png",
+                url: "https://tallulah.vercel.app/og-image-nightclub.png",
                 width: 1200,
                 height: 630,
                 alt: "Peace & Love Nightclub – Cosmic Cat Dance Floor",
