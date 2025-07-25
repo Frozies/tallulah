@@ -3,7 +3,8 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
-import CatHeadSVG from "./cat"; // adjust path as needed
+import CatHeadSVG from "./cat";
+import React from "react"; // adjust path as needed
 
 export default function Hero() {
     return (
@@ -44,6 +45,9 @@ export default function Hero() {
                     </motion.p>
                 </Link>
             </div>
+            <footer className="text-center py-4 text-pink-200 font-medium text-sm">
+                Made with ❤️ for Tallulah
+            </footer>
         </div>
     );
 }
