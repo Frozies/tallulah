@@ -49,6 +49,19 @@ export const metadata = {
 export default function Page() {
     return (
         <div>
+            <Script id="ruffle-config" strategy="beforeInteractive">
+                {`
+                  window.RufflePlayer = window.RufflePlayer || {};
+                  window.RufflePlayer.config = {
+                    autoplay: "on",
+                    splashScreen: false,
+                    preloader: false,
+                    unmuteOverlay: "hidden",
+                    warnOnUnsupportedContent: false
+                  };
+                `}
+            </Script>
+
             <Script
                 src="https://unpkg.com/@ruffle-rs/ruffle"
                 strategy="beforeInteractive"
