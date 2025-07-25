@@ -3,13 +3,13 @@
 import WisdomClient from "@/components/wisdom-client";
 
 export const metadata = {
-  title: 'Cosmic Cat Wisdom – Peace & Paws',
+  title: 'Cosmic Cat Wisdom – Peace & Love',
   description: 'Hear daily cosmic cat wisdom spoken in authentic Animalese style.',
   openGraph: {
-    title: 'Cosmic Cat Wisdom – Peace & Paws',
+    title: 'Cosmic Cat Wisdom – Peace & Love',
     description: 'Hear daily cosmic cat wisdom spoken in authentic Animalese style.',
     url: 'https://yourdomain.com/wisdom',
-    siteName: 'Peace & Paws',
+    siteName: 'Peace & Love',
     images: [
       {
         url: 'https://yourdomain.com/og-wisdom.png',

@@ -4,11 +4,11 @@ import Layout from "@/components/Layout";
 import SimpleSpotifyEmbed from "@/components/SpotifyPlayer";
 export const metadata = {
     title: {
-        default: "Peace & Paws Nightclub",
-        template: "%s | Peace & Paws",
+        default: "Peace & Love Nightclub",
+        template: "%s | Peace & Love",
     },
     description:
-        "Step into the virtual dance‑floor of Peace & Paws: our cosmic cat‑led nightclub with animated beats, immersive visuals, and daily doses of feline wisdom.",
+        "Step into the virtual dance‑floor of Peace & Love: our cosmic cat‑led nightclub with animated beats, immersive visuals, and daily doses of feline wisdom.",
     viewport: "width=device-width, initial-scale=1",
     manifest: "/site.webmanifest",
     themeColor: "#000000",
@@ -29,17 +29,17 @@ export const metadata = {
         },
     },
     openGraph: {
-        title: "Peace & Paws Nightclub",
+        title: "Peace & Love Nightclub",
         description:
-            "Step into the virtual dance‑floor of Peace & Paws: our cosmic cat‑led nightclub with animated beats, immersive visuals, and daily doses of feline wisdom.",
+            "Step into the virtual dance‑floor of Peace & Love: our cosmic cat‑led nightclub with animated beats, immersive visuals, and daily doses of feline wisdom.",
         url: "https://yourdomain.com/nightclub",
-        siteName: "Peace & Paws",
+        siteName: "Peace & Love",
         images: [
             {
                 url: "https://yourdomain.com/og-image-nightclub.png",
                 width: 1200,
                 height: 630,
-                alt: "Peace & Paws Nightclub – Cosmic Cat Dance Floor",
+                alt: "Peace & Love Nightclub – Cosmic Cat Dance Floor",
             },
         ],
         locale: "en_US",

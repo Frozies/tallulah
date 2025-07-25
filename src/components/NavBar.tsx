@@ -15,9 +15,9 @@ export default function NavBar() {
     <nav className="sticky top-0 z-50 w-full bg-tie-dye bg-cover bg-center shadow-lg animate-pulse-tiedye">
       <div className="max-w-6xl mx-auto flex items-center justify-between py-2 px-4">
         {/* Peace sign logo */}
-        <Link href="/" aria-label="Peace & Paws Home" className="flex items-center gap-2">
+        <Link href="/" aria-label="Peace & Love Home" className="flex items-center gap-2">
           <span className="text-3xl" role="img" aria-label="Peace Sign">☮️</span>
-          <span className="font-heading text-xl md:text-2xl tracking-widest text-tie-dye-purple drop-shadow">Peace & Paws</span>
+          <span className="font-heading text-xl md:text-2xl tracking-widest text-tie-dye-purple drop-shadow">Peace & Love</span>
         </Link>
         <ul className="flex gap-4 md:gap-8 items-center">
           {navLinks.map(({ href, label }) => {

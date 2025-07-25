@@ -1,4 +1,4 @@
-# Peace & Paws 🕊️🐾
+# Peace & Love 🕊️🐾
 
 A playful, hippie-inspired Next.js site for cat lovers! 🌈
 

@@ -21,7 +21,7 @@ export default function Hero() {
                 </motion.div>
 
                 <h1 className="font-heading text-5xl md:text-6xl text-tie-dye-purple text-center drop-shadow-lg mb-2">
-                    Peace & Paws
+                    Peace & Love
                 </h1>
 
                 <Link href="/wisdom">
