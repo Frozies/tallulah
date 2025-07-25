@@ -64,7 +64,7 @@ export default function Page() {
 
             <Script
                 src="https://unpkg.com/@ruffle-rs/ruffle"
-                strategy="beforeInteractive"
+                strategy="afterInteractive"
             />
             <Layout>
                 <SimpleSpotifyEmbed />

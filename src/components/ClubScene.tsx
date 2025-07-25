@@ -1,14 +1,10 @@
 // src/components/ClubScene.tsx
 "use client";
 
-import dynamic from "next/dynamic";
 import GreenScreenCat from "./GreenScreenCat";
-import SimpleSpotifyEmbed from "@/components/SpotifyPlayer";
+import NightClubDynamic from "@/components/night-club-dynamic";
 
-// dynamic import of NightClub to avoid SSR
-const NightClubDynamic = dynamic(() => import("./night-club"), {
-    ssr: false,
-});
+
 
 export default function ClubScene() {
     return (
